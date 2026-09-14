@@ -563,3 +563,14 @@ a:focus-visible {
   height: auto;
   margin: 0 auto 1.1rem;
 }
+
+
+.logo-wordmark {
+  display: block;
+  height: 1.65rem;
+  width: auto;
+}
+.logo {
+  display: inline-flex;
+  align-items: center;
+}
