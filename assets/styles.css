@@ -555,3 +555,11 @@ a:focus-visible {
   border-radius: 1.35rem;
   box-shadow: 0 12px 40px rgba(0,0,0,0.45);
 }
+
+
+.hero-wordmark {
+  display: block;
+  width: min(28rem, 92vw);
+  height: auto;
+  margin: 0 auto 1.1rem;
+}
