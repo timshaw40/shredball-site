@@ -535,3 +535,23 @@ a:focus-visible {
     scroll-behavior: auto;
   }
 }
+
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.logo-icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  border-radius: 0.28rem;
+}
+.hero-icon {
+  display: block;
+  width: min(9.5rem, 42vw);
+  height: auto;
+  margin: 0 auto 1.25rem;
+  border-radius: 1.35rem;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.45);
+}
